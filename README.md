@@ -34,7 +34,7 @@ A simple inventory management system built with Remix.js, TypeScript, Postgres, 
         ```bash
         DATABASE_URL="postgresql://<user>:<password>@<host>:<port>/<database>"
         ```
-        Replace <user>, <password>, <host>, <port>, and <database> with your PostgreSQL    credentials.
+        Replace user, password, host, port, and database with your PostgreSQL    credentials.
       - Run Prisma commands to set up the database:
         ```bash
         npx prisma migrate dev --name init
