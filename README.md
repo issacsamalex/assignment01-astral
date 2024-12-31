@@ -21,7 +21,7 @@ A simple inventory management system built with Remix.js, TypeScript, Postgres, 
   ### Installation
   1. Clone the repository:
   ```bash
-  git clone https://github.com/your-username/vidhive.git
+  git clone https://github.com/issacsamalex/assignment01-astral.git
   cd inventory-management
   ```
 
